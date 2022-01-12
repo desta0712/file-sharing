@@ -1,4 +1,4 @@
-# Prime-sharing-Bot
+# desta0712-sharing-Bot
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
 I Guess This Will Be Usefull For Many People.....😇. 
